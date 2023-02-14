@@ -1,4 +1,4 @@
-#JOGO MARIO JUMP ( INICIANTE )
+# JOGO MARIO JUMP ( INICIANTE )
 
 ## Tecnologias utilizadas
 - JavaScript, HTML, CSS
